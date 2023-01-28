@@ -6,3 +6,5 @@
 
 # (Aula 6) Pra que serve interface e métodos abstratos da interface?
 
+# (Aula 8) Existem outros tipos de relacionamento entre classes além da agregação?
+R - Existe associações, e outros tipos de relação entre classes
