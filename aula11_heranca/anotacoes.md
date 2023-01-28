@@ -1,6 +1,6 @@
 # 28/01/2023
 
-# Aula 10A - Herança (parte 2)
+# Aula 11A - Herança (parte 2)
 
 ## Tipos de Herança
 1) Herança de implementação (herança pobre)<br/>
